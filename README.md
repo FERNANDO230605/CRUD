@@ -1,4 +1,4 @@
-Mi Aplicación web es un CRUD que ademas tiene un login y un registro de trabajador, Todo fue hecho en codigo PHP con css y javascript,
+Mi Aplicación web es un CRUD que ademas tiene un login y un registro de trabajador, Todo fue hecho en codigo php con css y javascript,
 recuerda que para abrirlo se necesita usar xampp y activar mysql y apache. Y la base de datos de encuentra en el archivo txt BaseDeDatos.db 
 y las clave cifrada de iniciar sesion se encuentra en el archivo login.php en la linea 19  "$clave_predeterminada = '$2y$10';" 
 por si necesitas cambiarlo a otra clave de cifrado.
