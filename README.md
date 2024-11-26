@@ -1,5 +1,5 @@
-Mi Aplicación web es un CRUD que ademas tiene un login y un registro de trabajador, Todo fue hecho en codigo php, css y javascript,
-recuerda que para abrirlo se necesita usar xampp y activar mysql y apache.
+Mi Aplicación web es un CRUD que ademas tiene un login y un registro de trabajador realizado en codigo php, css y javascript,
+recuerda que para abrirlo necesitamos tener instalado xampp y activar mysql y apache.
 
 La base de datos se encuentra en el archivo txt BaseDeDatos.db y ya solo es copiar y pegarlo en el apartado de sql de phpMyAdmin y con esto podemos utilizar la pagina sin problemas.
 
