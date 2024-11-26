@@ -1,6 +1,9 @@
 Mi Aplicación web es un CRUD que ademas tiene un login y un registro de trabajador, Todo fue hecho en codigo php, css y javascript,
-recuerda que para abrirlo se necesita usar xampp y activar mysql y apache. Y la base de datos de encuentra en el archivo txt BaseDeDatos.db 
-y las clave cifrada de iniciar sesion se encuentra en el archivo login.php en la linea 19  "$clave_predeterminada = '$2y$10';" 
+recuerda que para abrirlo se necesita usar xampp y activar mysql y apache.
+
+La base de datos se encuentra en el archivo txt BaseDeDatos.db y ya solo es copiar y pegarlo en el apartado de sql de phpMyAdmin y con esto podemos utilizar la pagina sin problemas.
+
+Para la clave de cifrada de iniciar sesion se encuentra en el archivo login.php en la linea 19  "$clave_predeterminada = '$2y$10';" 
 por si necesitas cambiarlo a otra clave de cifrado.
 
 VISUALIZACION DE LA APLICACIÓN WEB
