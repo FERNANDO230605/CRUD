@@ -1,0 +1,74 @@
+
+
+body{
+    background-image: url(../img/bg3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+  }
+  
+  input {
+    border: 2px solid transparent;
+    width: 15em;
+    height: 2.5em;
+    padding-left: 0.8em;
+    outline: none;
+    overflow: hidden;
+    background-color: #F3F3F3;
+    border-radius: 10px;
+    transition: all 0.5s;
+  }
+  
+  input:hover,
+  input:focus {
+    border: 2px solid #4A9DEC;
+    box-shadow: 0px 0px 0px 7px rgb(74, 157, 236, 20%);
+    background-color: white;
+  }
+
+
+  .card{
+    background: #F4E2DE;
+    box-shadow: 0px 187px 75px rgba(0, 0, 0, 0.01), 0px 105px 63px rgba(0, 0, 0, 0.05), 0px 47px 47px rgba(0, 0, 0, 0.09), 0px 12px 26px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+    width: 40em;
+    height: 20em;
+    padding: 20px;
+    position: relative;
+    margin: auto;
+    border-radius: 10px;
+
+}
+
+.card table{
+    margin: auto;
+    position: relative;
+}
+
+.registros{
+    padding: 15px;
+   
+}
+
+.registros h2{
+    background: #F4E2DE;
+    box-shadow: 0px 187px 75px rgba(0, 0, 0, 0.01), 0px 105px 63px rgba(0, 0, 0, 0.05), 0px 47px 47px rgba(0, 0, 0, 0.09), 0px 12px 26px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    width: 10em;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.registros form{
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+
+
+
+
+
+  
